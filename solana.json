@@ -1,0 +1,15 @@
+[
+  {
+    "chainId": 101,
+    "address": "7j3iGhvoPjh1xHxKCzDiizE3QREuaBxznk4FuNwhiQ8D",
+    "symbol": "USDT",
+    "name": "USDT",
+    "decimals": 6,
+    "logoURI": "https://i.ibb.co/hxgPrrFQ/USDT.png",
+    "tags": ["utility", "stable"],
+    "extensions": {
+      "website": "https://tether.io",
+      "twitter": "https://twitter.com/tether_io"
+    }
+  }
+]
